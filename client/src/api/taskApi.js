@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api/tasks";
+const BASE_URL = "https://event-planner-5p5c.onrender.com/api/tasks";
 
 // ✅ GET ALL TASKS (for dashboard)
 export const getTasks = async () => {

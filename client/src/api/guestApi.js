@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api/guests";
+const BASE_URL = "https://event-planner-5p5c.onrender.com/api/guests";
 
 // GET GUESTS
 export const getGuestsByEvent = async (eventId) => {
