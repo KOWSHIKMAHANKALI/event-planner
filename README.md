@@ -1,7 +1,7 @@
 # 🚀 Smart Event Planner (AI-Powered)
 
 🌐 **Live Demo:**
-https://event-planner-eknulauwc-kowshikmahankali-9331s-projects.vercel.app
+https://event-planner-sigma-three.vercel.app?_vercel_share=hSImIgj6UI8OTywKyCE4D13wunSXq8nv
 
 ---
 
